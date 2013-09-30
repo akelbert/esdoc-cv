@@ -1,0 +1,43 @@
+CV Types
+	cf names
+	esg-f facets
+	cim vocabs
+
+
+CV collection 
+	meta-info
+		description		collection descriptor,  e.g. List  of institutes
+		keys				name		collection name, e.g. institute
+						uid		collection universally unique identifier
+						id		collection unique integer
+		scope			global | project
+		type				flat-list | hierarchichal 
+		[url]			url documenting CV collection
+
+	terms
+		collection of terms of relevant type
+
+CV term
+	meta-info
+		id				uniquely identifies term
+		key				uniquely identifies term
+		uid				uniquely identifies term
+		[sortKey]			permits collection sorting
+	
+	standard-info
+		name				e.g. NCAR
+		longName			e.g. National Center for Atmospheric Research
+		[url]			url documenting term
+
+CV API
+	base			http://cv.es-doc.org//collection/item.format
+	GET			uid
+				uid/uid
+				id
+				id/id
+				name
+				name/name
+
+
+				
+
