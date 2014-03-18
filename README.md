@@ -26,12 +26,7 @@ Who uses esdoc-cv ?
 esdoc-cv is leveraged by projects that require earth system CV services, this includes both ES-DOC & ESG-F as well as the various MIP's.
 
 
-What are the contents of esdoc-cv ?
---------------------------------------
-
-Please see [wiki](https://github.com/ES-DOC/esdoc-cv/wiki/Overview).
-
 Further Information ?
 --------------------------------------
 
-Please refer to the [splash page](http:es-doc.org) for further information.
+Please see [wiki](https://github.com/ES-DOC/esdoc-cv/wiki/Overview).
