@@ -23,13 +23,13 @@ Earth system controlled vocabularies have historicially been unmanaged and as a 
 Who uses esdoc-cv ?
 --------------------------------------
 
-esdoc-cv is leveraged by projects requireing earth system CV services, this includes both ES-DOC & ESG-F.
+esdoc-cv is leveraged by projects that require earth system CV services, this includes both ES-DOC & ESG-F as well as the various MIP's.
 
 
 What are the contents of esdoc-cv ?
 --------------------------------------
 
-TODO
+Please see [wiki](https://github.com/ES-DOC/esdoc-cv/wiki/Overview).
 
 Further Information ?
 --------------------------------------
